@@ -1,0 +1,1 @@
+Install BepInEx 5 (x64) into your SUPERHOT folder, then copy the SigfMix plugin folder from this mod into BepInEx/plugins and start SUPERHOT. Kill enemies to earn Care Package, Predator, Harrier and Tactical Nuke streaks.

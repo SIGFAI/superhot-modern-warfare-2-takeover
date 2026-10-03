@@ -1,0 +1,6 @@
+Clip moments (Modern Warfare 2 Takeover), in order:
+1. [x] Title "MODERN WARFARE 2 TAKEOVER" + the red crystal men now wear skull balaclavas, helmets, goggles and plate carriers (bullet time close-up).
+2. [x] A kill: red hitmarker X, "+100 Enemy killed / First Blood" XP feed, the helmet, mask and vest fly off the shattered enemy (SUPERHOT shatter + our physics debris).
+3. [x] Two kills = CARE PACKAGE: crate hangs under a parachute in slow time and crushes an enemy ("EMERGENCY AIRDROP!").
+4. [x] Four kills = PREDATOR MISSILE dives into a group (green missile-cam tint) and explodes with fire and smoke, shattering them.
+5. [x] Six kills = HARRIER jet bombing run, then eight kills = TACTICAL NUKE: red countdown, whole screen goes white and every enemy shatters.
