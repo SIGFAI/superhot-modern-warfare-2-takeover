@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "name": "Modern Warfare 2 Takeover",
   "tagline": "Bring Modern Warfare 2 into the game in the most visible and funny way. The change shows in the first 30 seconds of play.",
+  "how_to_play": [
+    "Fight the skull-mask soldiers in the endless lab and chain kills into Modern Warfare 2 killstreaks.",
+    "Your streak calls in rewards by itself: Care Package at 2 kills, Predator at 4, Harrier at 6, Tactical Nuke at 8.",
+    "Time moves only when you move, so the strikes crawl while you stand still."
+  ],
   "kind": "mashup",
   "games": [
     {
@@ -168,8 +173,5 @@
     "id": "superhot",
     "status": "draft"
   },
-  "built_at": "2026-10-05T15:28:17.849Z",
-  "notes": [
-    "Install BepInEx 5 (x64) into your SUPERHOT folder, then copy the SigfMix plugin folder from this mod into BepInEx/plugins and start SUPERHOT. Kill enemies to earn Care Package, Predator, Harrier and Tactical Nuke streaks."
-  ]
+  "built_at": "2026-10-05T15:28:17.849Z"
 }
